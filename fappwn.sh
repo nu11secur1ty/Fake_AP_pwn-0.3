@@ -1,7 +1,8 @@
 #!/bin/bash
 #----------------------------------------------------------------------------------------------#
 #fakeAP_pwn.sh v0.3 (#127 2010-11-12)                                                          #
-# (C)opyright 2010 - g0tmi1k & joker5bb                                                        #
+# (C)opyright 2010 - g0tmi1k & joker5bb 
+#  Modified by nu11secur1ty (# 001 2017)
 #---License------------------------------------------------------------------------------------#
 #  This program is free software: you can redistribute it and/or modify it under the terms     #
 #  of the GNU General Public License as published by the Free Software Foundation, either      #
